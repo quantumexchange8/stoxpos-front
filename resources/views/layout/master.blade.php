@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="AwesomeThemez">
-    <meta name="description" content="Poze - Point of Sale Landing Page HTML Template">
-    <title>Poze - Point of Sale Landing Page HTML Template</title>
+    <meta name="description" content="StoxPoz">
+    <title>StoxPoz</title>
     <!-- Favicon Icon -->
     <link rel="icon" href="public/img/favicon.svg">
     <!-- CSS plugins files -->

@@ -50,7 +50,6 @@
                             <ul class="cs_footer_widget_nav cs_mp0">
                                 <li><a href="/#faq" aria-label="Footer link">Faq’s</a></li>
                                 <li><a href="#" aria-label="Footer link">Articles</a></li>
-                                <li><a href="#" aria-label="Footer link">Live Chat</a></li>
                             </ul>
                         </div>
                         <div class="cs_height_0 cs_height_lg_30"></div>

@@ -7,7 +7,7 @@
                 <div class="cs_hero_text text-center">
                     <h1 class="cs_hero_title cs_text_black wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">
                         Maximize
-                        sales with our advanced POS software solutions
+                        sales with our <br />advanced POS software solutions
                     </h1>
                     <p class="cs_hero_subtitle wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.25s">
                         Our advanced POS software is designed to revolutionize your business operations. With its
@@ -17,9 +17,7 @@
                     </p>
                 </div>
                 <div class="cs_btn_group text-center wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.25s">
-                    <a href="#" aria-label="Click to view demo" class="cs_btn cs_bg_white">Product Demo</a>
-                    <a href="#" aria-label="Start free trial button" class="cs_btn cs_bg_heading">Start Free
-                        Trial</a>
+                    <a href="#contact" aria-label="Start free trial button" class="cs_btn cs_bg_heading">Get Quote</a>
                 </div>
                 <div class="cs_height_100 cs_height_lg_60"></div>
                 <div class="cs_hero_img wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.25s">
@@ -28,14 +26,11 @@
             </div>
             <div class="cs_hero_shape1"></div>
             <div class="cs_hero_shape2"><img src="assets/img/Polygon.svg" alt="Polygon Icon"></div>
-            <div class="cs_hero_shape2" style="left: 5%; top: 30%;"><img src="assets/img/Polygon.svg"
-                    alt="Polygon Icon">
+            <div class="cs_hero_shape2" style="left: 5%; top: 30%;"><img src="assets/img/Polygon.svg" alt="Polygon Icon">
             </div>
-            <div class="cs_hero_shape2" style="left: 70%; top: 20%;"><img src="assets/img/Polygon.svg"
-                    alt="Polygon Icon">
+            <div class="cs_hero_shape2" style="left: 70%; top: 20%;"><img src="assets/img/Polygon.svg" alt="Polygon Icon">
             </div>
-            <div class="cs_hero_shape2" style="left: 90%; top: 36%;"><img src="assets/img/Polygon.svg"
-                    alt="Polygon Icon">
+            <div class="cs_hero_shape2" style="left: 90%; top: 36%;"><img src="assets/img/Polygon.svg" alt="Polygon Icon">
             </div>
             <div class="cs_hero_shape2"
                 style="left: 40%; top: 15%;  animation: animo-x 9s cubic-bezier(0.4, 0, 0.2, 1) infinite;
@@ -55,7 +50,7 @@
                 <div class="cs_section_heading cs_style_1 text-center">
                     <p class="cs_section_subtitle cs_text_accent wow fadeInUp" data-wow-duration="0.8s"
                         data-wow-delay="0.2s">Grow
-                        Your Business With Poze</p>
+                        Your Business With StoxPoz</p>
                     <h2 class="cs_section_title mb-0 wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
                         Delightfully
                         Simple And Deceptively <br> Our Point of Sell System</h2>
@@ -68,24 +63,10 @@
                                 <img src="assets/img/shop.svg" alt="Icon">
                             </div>
                             <h3 class="cs_iconbox_title">Suitable For All Types Businesses</h3>
-                            <p class="cs_iconbox_subtitle">Voilla satisfaction spares over the quitting even disguised
-                                I just of to I
-                                logging and does of lazy.</p>
-                            <a href="#" aria-label="Click to view feature" class="cs_text_btn cs_text_accent">
-                                Learn More
-                                <svg width="11" height="11" viewBox="0 0 11 11" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path
-                                        d="M10.147 1.75739C10.147 1.28795 9.76649 0.907395 9.29705 0.907394L1.64705 0.907394C1.17761 0.907395 0.797048 1.28795 0.797048 1.75739C0.797048 2.22684 1.17761 2.60739 1.64705 2.60739H8.44705V9.4074C8.44705 9.87684 8.82761 10.2574 9.29705 10.2574C9.76649 10.2574 10.147 9.87684 10.147 9.4074L10.147 1.75739ZM1.41281 10.8437L9.89809 2.35844L8.69601 1.15635L0.210727 9.64163L1.41281 10.8437Z"
-                                        fill="currentColor"></path>
-                                </svg>
-                                <svg width="11" height="11" viewBox="0 0 11 11" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path
-                                        d="M10.147 1.75739C10.147 1.28795 9.76649 0.907395 9.29705 0.907394L1.64705 0.907394C1.17761 0.907395 0.797048 1.28795 0.797048 1.75739C0.797048 2.22684 1.17761 2.60739 1.64705 2.60739H8.44705V9.4074C8.44705 9.87684 8.82761 10.2574 9.29705 10.2574C9.76649 10.2574 10.147 9.87684 10.147 9.4074L10.147 1.75739ZM1.41281 10.8437L9.89809 2.35844L8.69601 1.15635L0.210727 9.64163L1.41281 10.8437Z"
-                                        fill="currentColor"></path>
-                                </svg>
-                            </a>
+                            <p class="cs_iconbox_subtitle">“Whether you run a cozy café, a lively bar, or a bustling
+                                restaurant, our system adapts perfectly to your business needs — empowering you to
+                                streamline operations without compromise.”
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-6 col-xl-3">
@@ -94,24 +75,10 @@
                                 <img src="assets/img/price_bar.svg" alt="Icon">
                             </div>
                             <h3 class="cs_iconbox_title">Cost Effective With Affordable Price</h3>
-                            <p class="cs_iconbox_subtitle">Voilla satisfaction spares over the quitting even disguised
-                                I just of to I
-                                logging and does of lazy.</p>
-                            <a href="#" aria-label="Click to view feature" class="cs_text_btn cs_text_accent">
-                                Learn More
-                                <svg width="11" height="11" viewBox="0 0 11 11" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path
-                                        d="M10.147 1.75739C10.147 1.28795 9.76649 0.907395 9.29705 0.907394L1.64705 0.907394C1.17761 0.907395 0.797048 1.28795 0.797048 1.75739C0.797048 2.22684 1.17761 2.60739 1.64705 2.60739H8.44705V9.4074C8.44705 9.87684 8.82761 10.2574 9.29705 10.2574C9.76649 10.2574 10.147 9.87684 10.147 9.4074L10.147 1.75739ZM1.41281 10.8437L9.89809 2.35844L8.69601 1.15635L0.210727 9.64163L1.41281 10.8437Z"
-                                        fill="currentColor"></path>
-                                </svg>
-                                <svg width="11" height="11" viewBox="0 0 11 11" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path
-                                        d="M10.147 1.75739C10.147 1.28795 9.76649 0.907395 9.29705 0.907394L1.64705 0.907394C1.17761 0.907395 0.797048 1.28795 0.797048 1.75739C0.797048 2.22684 1.17761 2.60739 1.64705 2.60739H8.44705V9.4074C8.44705 9.87684 8.82761 10.2574 9.29705 10.2574C9.76649 10.2574 10.147 9.87684 10.147 9.4074L10.147 1.75739ZM1.41281 10.8437L9.89809 2.35844L8.69601 1.15635L0.210727 9.64163L1.41281 10.8437Z"
-                                        fill="currentColor"></path>
-                                </svg>
-                            </a>
+                            <p class="cs_iconbox_subtitle">“Whether you run a cozy café, a lively bar, or a bustling
+                                restaurant, our system adapts perfectly to your business needs — empowering you to
+                                streamline operations without compromise.”
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-6 col-xl-3">
@@ -120,24 +87,9 @@
                                 <img src="assets/img/setup.svg" alt="Icon">
                             </div>
                             <h3 class="cs_iconbox_title">Easy to Setup & No IT knowledge Need</h3>
-                            <p class="cs_iconbox_subtitle">Voilla satisfaction spares over the quitting even disguised
-                                I just of to I
-                                logging and does of lazy.</p>
-                            <a href="#" aria-label="Click to view feature" class="cs_text_btn cs_text_accent">
-                                Learn More
-                                <svg width="11" height="11" viewBox="0 0 11 11" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path
-                                        d="M10.147 1.75739C10.147 1.28795 9.76649 0.907395 9.29705 0.907394L1.64705 0.907394C1.17761 0.907395 0.797048 1.28795 0.797048 1.75739C0.797048 2.22684 1.17761 2.60739 1.64705 2.60739H8.44705V9.4074C8.44705 9.87684 8.82761 10.2574 9.29705 10.2574C9.76649 10.2574 10.147 9.87684 10.147 9.4074L10.147 1.75739ZM1.41281 10.8437L9.89809 2.35844L8.69601 1.15635L0.210727 9.64163L1.41281 10.8437Z"
-                                        fill="currentColor"></path>
-                                </svg>
-                                <svg width="11" height="11" viewBox="0 0 11 11" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path
-                                        d="M10.147 1.75739C10.147 1.28795 9.76649 0.907395 9.29705 0.907394L1.64705 0.907394C1.17761 0.907395 0.797048 1.28795 0.797048 1.75739C0.797048 2.22684 1.17761 2.60739 1.64705 2.60739H8.44705V9.4074C8.44705 9.87684 8.82761 10.2574 9.29705 10.2574C9.76649 10.2574 10.147 9.87684 10.147 9.4074L10.147 1.75739ZM1.41281 10.8437L9.89809 2.35844L8.69601 1.15635L0.210727 9.64163L1.41281 10.8437Z"
-                                        fill="currentColor"></path>
-                                </svg>
-                            </a>
+                            <p class="cs_iconbox_subtitle">“No technical headaches — get up and running quickly with our
+                                intuitive setup. Designed so anyone can manage, no IT expertise required.”
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-6 col-xl-3">
@@ -146,24 +98,9 @@
                                 <img src="assets/img/ui.svg" alt="Icon">
                             </div>
                             <h3 class="cs_iconbox_title">Modern & Attractive User Dashboard</h3>
-                            <p class="cs_iconbox_subtitle">Voilla satisfaction spares over the quitting even disguised
-                                I just of to I
-                                logging and does of lazy.</p>
-                            <a href="#" aria-label="Click to view feature" class="cs_text_btn cs_text_accent">
-                                Learn More
-                                <svg width="11" height="11" viewBox="0 0 11 11" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path
-                                        d="M10.147 1.75739C10.147 1.28795 9.76649 0.907395 9.29705 0.907394L1.64705 0.907394C1.17761 0.907395 0.797048 1.28795 0.797048 1.75739C0.797048 2.22684 1.17761 2.60739 1.64705 2.60739H8.44705V9.4074C8.44705 9.87684 8.82761 10.2574 9.29705 10.2574C9.76649 10.2574 10.147 9.87684 10.147 9.4074L10.147 1.75739ZM1.41281 10.8437L9.89809 2.35844L8.69601 1.15635L0.210727 9.64163L1.41281 10.8437Z"
-                                        fill="currentColor"></path>
-                                </svg>
-                                <svg width="11" height="11" viewBox="0 0 11 11" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path
-                                        d="M10.147 1.75739C10.147 1.28795 9.76649 0.907395 9.29705 0.907394L1.64705 0.907394C1.17761 0.907395 0.797048 1.28795 0.797048 1.75739C0.797048 2.22684 1.17761 2.60739 1.64705 2.60739H8.44705V9.4074C8.44705 9.87684 8.82761 10.2574 9.29705 10.2574C9.76649 10.2574 10.147 9.87684 10.147 9.4074L10.147 1.75739ZM1.41281 10.8437L9.89809 2.35844L8.69601 1.15635L0.210727 9.64163L1.41281 10.8437Z"
-                                        fill="currentColor"></path>
-                                </svg>
-                            </a>
+                            <p class="cs_iconbox_subtitle">“Enjoy a sleek, user-friendly dashboard that puts real-time
+                                insights and control at your fingertips, helping you make smarter, faster
+                                decisions every day.”</p>
                         </div>
                     </div>
                 </div>
@@ -192,36 +129,45 @@
                             <div class="col-lg-6">
                                 <div class="cs_iconbox cs_style_2">
                                     <div class="cs_number_box cs_bg_accent cs_text_white">01</div>
-                                    <h3 class="cs_iconbox_title">Inventory Management</h3>
-                                    <p class="cs_iconbox_subtitle">Pos can analyze large volumes of data quickly and
-                                        accurate, valuable.
+                                    <h3 class="cs_iconbox_title">Bottle Storage Management</h3>
+                                    <p class="cs_iconbox_subtitle">Let your customers store and consume their drinks
+                                        effortlessly. Transparent tracking prevents disputes and enhances trust. Support
+                                        multiple bottle types and flexible storage plans.
+
                                     </p>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="cs_iconbox cs_style_2">
                                     <div class="cs_number_box cs_bg_accent cs_text_white">02</div>
-                                    <h3 class="cs_iconbox_title">Sales & Payment Process</h3>
-                                    <p class="cs_iconbox_subtitle">If can analyze large volumes of data quickly and
-                                        accurate, valuable.
+                                    <h3 class="cs_iconbox_title">Customer Loyalty Program
+                                    </h3>
+                                    <p class="cs_iconbox_subtitle">Easy QR code registration for members. Automatically
+                                        earn points, level up tiers, and redeem rewards — turning casual guests into loyal
+                                        patrons.
+
                                     </p>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="cs_iconbox cs_style_2">
                                     <div class="cs_number_box cs_bg_accent cs_text_white">03</div>
-                                    <h3 class="cs_iconbox_title">Report and Analysis</h3>
-                                    <p class="cs_iconbox_subtitle">If can analyze large volumes of data quickly and
-                                        accurate, valuable.
+                                    <h3 class="cs_iconbox_title">Staff Ordering & Attendance
+                                    </h3>
+                                    <p class="cs_iconbox_subtitle">Empower your staff to take orders and assist customers
+                                        with bottle storage. Built-in clock-in system ensures smooth operations and accurate
+                                        commission tracking.
                                     </p>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="cs_iconbox cs_style_2">
                                     <div class="cs_number_box cs_bg_accent cs_text_white">04</div>
-                                    <h3 class="cs_iconbox_title">Secure Fast Transaction</h3>
-                                    <p class="cs_iconbox_subtitle">Pos can analyze large volumes of data quickly and
-                                        accurate, valuable.
+                                    <h3 class="cs_iconbox_title">Powerful Admin Dashboard
+                                    </h3>
+                                    <p class="cs_iconbox_subtitle">Manage business, staff, and customers in one place.
+                                        Access detailed reports, commission calculations, seating management, and marketing
+                                        tools effortlessly.
                                     </p>
                                 </div>
                             </div>
@@ -237,7 +183,7 @@
                 <div class="row align-items-center cs_gap_y_40 cs_reverse_lg">
                     <div class="col-xl-6 wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
                         <div class="cs_section_heading cs_style_1">
-                            <p class="cs_section_subtitle cs_text_accent">Who Can Use Our Poze</p>
+                            <p class="cs_section_subtitle cs_text_accent">Who Can Use Our StoxPoz</p>
                             <h2 class="cs_section_title mb-0">Our Software Capable for Wide Range of Business and
                                 Industries</h2>
                         </div>
@@ -300,7 +246,8 @@
                     <p class="cs_section_subtitle cs_text_accent wow fadeInUp" data-wow-duration="0.8s"
                         data-wow-delay="0.2s">Our
                         Pricing</p>
-                    <h2 class="cs_section_title mb-0 wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
+                    <h2 class="cs_section_title mb-0 wow fadeIn" style="color: white" data-wow-duration="0.8s"
+                        data-wow-delay="0.2s">
                         Transparent
                         Pricing Plans, Find the <br> Perfect Fit for Your Needs</h2>
                 </div>
@@ -309,26 +256,39 @@
                     <div class="col-lg-4">
                         <div class="cs_pricing_table cs_style_1">
                             <div class="cs_pricing_head">
-                                <div class="cs_pricing_icon">
+                                <div class="cs_pricing_icon" style="margin-bottom: 20px;">
                                     <img src="assets/img/symbol.svg" alt="Image">
                                 </div>
                                 <div class="cs_pricing_head_text">
-                                    <h3 class="cs_pricing_head_title">Starter</h3>
-                                    <p class="cs_pricing_head_subtitle mb-0">For small business</p>
+                                    <h3 class="cs_pricing_head_title">Basic Plan
+                                    </h3>
+                                    <p class="cs_pricing_head_subtitle mb-0">Perfect for small startups and restaurants who
+                                        want to quickly launch essential ordering, bottle storage, and staff attendance
+                                        features while keeping track of basic sales data.
+                                    </p>
                                 </div>
                             </div>
                             <div class="cs_pricing_seperator"></div>
                             <div class="cs_pricing_plan">
-                                <h3 class="cs_price_value">$24 <small>/ month</small></h3>
+                                <h3 class="cs_price_value">RM99 <small> /Monthly</small>
+                                </h3>
+                                <h3 class="cs_price_value">RM999<small> /Yearly</small>
+                                </h3>
                             </div>
                             <div class="cs_pricing_feature">
                                 <ul class="cs_pricing_feature_list cs_mp0">
-                                    <li><i class="fa-solid fa-check"></i>Only for one user</li>
-                                    <li><i class="fa-solid fa-check"></i>Inventory management</li>
-                                    <li><i class="fa-solid fa-check"></i>Sells report & anlysis</li>
-                                    <li><i class="fa-solid fa-xmark"></i>Extreme functionality</li>
-                                    <li><i class="fa-solid fa-xmark"></i>Bar code scanning</li>
-                                    <li><i class="fa-solid fa-xmark"></i>Free 24/7 support</li>
+                                    <li><i class="fa-solid fa-check"></i>*Basic order & billing management
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Simple and flexible bottle storage
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Loyalty points & tier system
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Staff clock-in & attendance tracking
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Basic sales reports
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Single user login support
+                                    </li>
                                 </ul>
                                 <a href="#contact" aria-label="Click to buy service"
                                     class="cs_pricing_btn cs_up_3_hover">Choose
@@ -339,24 +299,45 @@
                     <div class="col-lg-4">
                         <div class="cs_pricing_table cs_style_1 active">
                             <div class="cs_pricing_head">
-                                <div class="cs_pricing_icon"><img src="assets/img/symbol1.svg" alt="Image"></div>
+                                <div class="cs_pricing_icon" style="margin-bottom: 20px;"><img
+                                        src="assets/img/symbol1.svg" alt="Image"></div>
                                 <div class="cs_pricing_head_text">
                                     <h3 class="cs_pricing_head_title">Standard</h3>
-                                    <p class="cs_pricing_head_subtitle mb-0">For professionals</p>
+                                    <p class="cs_pricing_head_subtitle mb-0">Ideal for bars and karaoke lounges looking for
+                                        advanced bottle management, comprehensive loyalty programs, automated staff
+                                        commissions, and a robust admin panel to monitor and grow their business
+                                        efficiently.
+                                    </p>
                                 </div>
                             </div>
                             <div class="cs_pricing_seperator"></div>
                             <div class="cs_pricing_plan">
-                                <h3 class="cs_price_value">$50 <small>/ month</small></h3>
+                                <h3 class="cs_price_value">RM199 <small> /Monthly</small>
+                                </h3>
+                                <h3 class="cs_price_value">RM1,999<small> /Yearly</small>
+                                </h3>
                             </div>
                             <div class="cs_pricing_feature">
                                 <ul class="cs_pricing_feature_list cs_mp0">
-                                    <li><i class="fa-solid fa-check"></i>Only for one user</li>
-                                    <li><i class="fa-solid fa-check"></i>Inventory management</li>
-                                    <li><i class="fa-solid fa-check"></i>Sells report & anlysis</li>
-                                    <li><i class="fa-solid fa-check"></i>Extreme functionality</li>
-                                    <li><i class="fa-solid fa-xmark"></i>Bar code scanning</li>
-                                    <li><i class="fa-solid fa-xmark"></i>Free 24/7 support</li>
+                                    <li><i class="fa-solid fa-check"></i>*Includes all Basic features
+                                    </li>
+                                    <li style="display: flex"><i class="fa-solid fa-check"></i>Multiple bottle types &
+                                        flexible storage
+                                        management
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Detailed loyalty tiers & point redemption
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Automated staff commissions & rewards</li>
+                                    <li><i class="fa-solid fa-check"></i>Powerful admin dashboard with multi-role access
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Comprehensive sales & inventory reports
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Coupon & promotion management
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Single user login
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Basic customer support
+                                    </li>
                                 </ul>
                                 <a href="#contact" aria-label="Click to buy service"
                                     class="cs_pricing_btn cs_up_3_hover">Choose
@@ -368,24 +349,44 @@
                     <div class="col-lg-4">
                         <div class="cs_pricing_table cs_style_1">
                             <div class="cs_pricing_head">
-                                <div class="cs_pricing_icon"><img src="assets/img/symbol2.svg" alt="Image"></div>
+                                <div class="cs_pricing_icon" style="margin-bottom: 20px;"><img
+                                        src="assets/img/symbol2.svg" alt="Image"></div>
                                 <div class="cs_pricing_head_text">
-                                    <h3 class="cs_pricing_head_title">Professional</h3>
-                                    <p class="cs_pricing_head_subtitle mb-0">For enterprise level</p>
+                                    <h3 class="cs_pricing_head_title">Enterprise Plan
+                                    </h3>
+                                    <p class="cs_pricing_head_subtitle mb-0">Designed for large chains and multi-location
+                                        businesses, this plan offers advanced role-based access, custom reporting, API
+                                        support, complex marketing and staff incentive management, plus a dedicated account
+                                        manager for personalized support.</p>
                                 </div>
                             </div>
                             <div class="cs_pricing_seperator"></div>
                             <div class="cs_pricing_plan">
-                                <h3 class="cs_price_value">$85 <small>/ month</small></h3>
+                                <h3 class="cs_price_value">RM399 <small> /Monthly</small>
+                                </h3>
+                                <h3 class="cs_price_value">RM3,799<small> /Yearly</small>
+                                </h3>
                             </div>
                             <div class="cs_pricing_feature">
                                 <ul class="cs_pricing_feature_list cs_mp0">
-                                    <li><i class="fa-solid fa-check"></i>Only for one user</li>
-                                    <li><i class="fa-solid fa-check"></i>Inventory management</li>
-                                    <li><i class="fa-solid fa-check"></i>Sells report & anlysis</li>
-                                    <li><i class="fa-solid fa-check"></i>Extreme functionality</li>
-                                    <li><i class="fa-solid fa-check"></i>Bar code scanning</li>
-                                    <li><i class="fa-solid fa-check"></i>Free 24/7 support</li>
+                                    <li><i class="fa-solid fa-check"></i>* Includes all Standard features
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Multi-business & multi-location role management
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Advanced staff management with multiple roles &
+                                        departments</li>
+                                    <li><i class="fa-solid fa-check"></i>Customizable reports & real-time analytics
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>API integrations & third-party system support
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Dedicated account manager & priority tech support
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Complex commission & reward configurations
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Large-scale promotions & coupon management
+                                    </li>
+                                    <li><i class="fa-solid fa-check"></i>Multi-user concurrent login support
+                                    </li>
                                 </ul>
                                 <a href="#contact" aria-label="Click to buy service"
                                     class="cs_pricing_btn cs_up_3_hover">Choose
@@ -398,160 +399,10 @@
             <div class="cs_height_150 cs_height_lg_80"></div>
         </section>
         <!-- End Pricing section -->
-        <!--Start Testimonial Section -->
-        <section id="testimonial">
-            <div class="cs_height_143 cs_height_lg_75"></div>
-            <div class="container">
-                <div class="cs_section_heading cs_style_1 text-center">
-                    <p class="cs_section_subtitle cs_text_accent wow fadeInUp" data-wow-duration="0.8s"
-                        data-wow-delay="0.2s">
-                        Clients Feedback</p>
-                    <h2 class="cs_section_title mb-0 wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
-                        Voices of Delights
-                        Testimonials That <br> Speak to Our Excellence</h2>
-                </div>
-                <div class="cs_height_85 cs_height_lg_60"></div>
-            </div>
-            <div class="cs_slider wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
-                <div class="cs_testimonial cs_style_1">
-                    <div class="cs_client_info">
-                        <div class="cs_client_img">
-                            <img src="assets/img/user1.png" alt="avatar1">
-                        </div>
-                        <div class="cs_client_meta">
-                            <h4 class="cs_client_name">Wizard Bona</h4>
-                            <p class="mb-0">Voila Caffe</p>
-                        </div>
-                    </div>
-                    <p class="cs_client_review">
-                        I am thrilled to share my experience with poze software. Their AI solutions have truly
-                        revolutionized the
-                        way businessesoperate. They have set a new standard in the industry. Highly recommended!
-                    </p>
-                    <div class="cs_rating" data-rating="5">
-                        <div class="cs_rating_percentage"></div>
-                    </div>
-                </div>
-                <div class="cs_testimonial cs_style_1">
-                    <div class="cs_client_info">
-                        <div class="cs_client_img">
-                            <img src="assets/img/user2.png" alt="avatar1">
-                        </div>
-                        <div class="cs_client_meta">
-                            <h4 class="cs_client_name">Ansari Patron</h4>
-                            <p class="mb-0">Green Lodge</p>
-                        </div>
-                    </div>
-                    <p class="cs_client_review">
-                        I am thrilled to share my experience with poze software. Their AI solutions have truly
-                        revolutionized the
-                        way businessesoperate. They have set a new standard in the industry. Highly recommended!
-                    </p>
-                    <div class="cs_rating" data-rating="4.5">
-                        <div class="cs_rating_percentage"></div>
-                    </div>
-                </div>
-                <div class="cs_testimonial cs_style_1">
-                    <div class="cs_client_info">
-                        <div class="cs_client_img">
-                            <img src="assets/img/user3.png" alt="avatar1">
-                        </div>
-                        <div class="cs_client_meta">
-                            <h4 class="cs_client_name">Tonima Mozeja</h4>
-                            <p class="mb-0">Almas Market</p>
-                        </div>
-                    </div>
-                    <p class="cs_client_review">
-                        I am thrilled to share my experience with poze software. Their AI solutions have truly
-                        revolutionized the
-                        way businessesoperate. They have set a new standard in the industry. Highly recommended!
-                    </p>
-                    <div class="cs_rating" data-rating="4">
-                        <div class="cs_rating_percentage"></div>
-                    </div>
-                </div>
-                <div class="cs_testimonial cs_style_1">
-                    <div class="cs_client_info">
-                        <div class="cs_client_img">
-                            <img src="assets/img/user4.png" alt="avatar1">
-                        </div>
-                        <div class="cs_client_meta">
-                            <h4 class="cs_client_name">Wizard Bona</h4>
-                            <p class="mb-0">Voila Caffe</p>
-                        </div>
-                    </div>
-                    <p class="cs_client_review">
-                        I am thrilled to share my experience with poze software. Their AI solutions have truly
-                        revolutionized the
-                        way businessesoperate. They have set a new standard in the industry. Highly recommended!
-                    </p>
-                    <div class="cs_rating" data-rating="5">
-                        <div class="cs_rating_percentage"></div>
-                    </div>
-                </div>
-                <div class="cs_testimonial cs_style_1">
-                    <div class="cs_client_info">
-                        <div class="cs_client_img">
-                            <img src="assets/img/user5.png" alt="avatar1">
-                        </div>
-                        <div class="cs_client_meta">
-                            <h4 class="cs_client_name">Ansari Patron</h4>
-                            <p class="mb-0">Green Lodge</p>
-                        </div>
-                    </div>
-                    <p class="cs_client_review">
-                        I am thrilled to share my experience with poze software. Their AI solutions have truly
-                        revolutionized the
-                        way businessesoperate. They have set a new standard in the industry. Highly recommended!
-                    </p>
-                    <div class="cs_rating" data-rating="4.5">
-                        <div class="cs_rating_percentage"></div>
-                    </div>
-                </div>
-                <div class="cs_testimonial cs_style_1">
-                    <div class="cs_client_info">
-                        <div class="cs_client_img">
-                            <img src="assets/img/user3.png" alt="avatar1">
-                        </div>
-                        <div class="cs_client_meta">
-                            <h4 class="cs_client_name">Tonima Mozeja</h4>
-                            <p class="mb-0">Almas Market</p>
-                        </div>
-                    </div>
-                    <p class="cs_client_review">
-                        I am thrilled to share my experience with poze software. Their AI solutions have truly
-                        revolutionized the
-                        way businessesoperate. They have set a new standard in the industry. Highly recommended!
-                    </p>
-                    <div class="cs_rating" data-rating="5">
-                        <div class="cs_rating_percentage"></div>
-                    </div>
-                </div>
-            </div>
-            <div class="cs_height_143 cs_height_lg_75"></div>
-        </section>
-        <!--End Testimonial Section -->
-        <!-- Start Brands section -->
-        <div class="container">
-            <div class="cs_section_heading cs_style_2 text-center">
-                <h2 class="cs_section_subtitle mb-0 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Our
-                    worldwide
-                    reputed partner</h2>
-            </div>
-            <div class="cs_height_45 cs_height_lg_45"></div>
-            <div class="cs_partners wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
-                <div class="cs_partner"><img src="assets/img/brand_1.svg" alt="Brand"></div>
-                <div class="cs_partner"><img src="assets/img/brand_2.svg" alt="Brand"></div>
-                <div class="cs_partner"><img src="assets/img/brand_3.svg" alt="Brand"></div>
-                <div class="cs_partner"><img src="assets/img/brand_4.svg" alt="Brand"></div>
-                <div class="cs_partner"><img src="assets/img/brand_5.svg" alt="Brand"></div>
-                <div class="cs_partner"><img src="assets/img/brand_6.svg" alt="Brand"></div>
-            </div>
-        </div>
-        <div class="cs_height_150 cs_height_lg_80"></div>
-        <!-- End Brands section -->
         <!-- Start CTA section -->
         <section>
+            <div class="cs_height_143 cs_height_lg_75"></div>
+
             <div class="container">
                 <div class="cs_cta cs_style_1 text-center position-relative">
                     <div class="cs_cta_in">
@@ -565,10 +416,7 @@
                             </p>
                         </div>
                         <div class="cs_btn_group text-center">
-                            <a href="#" aria-label="Start trial button" class="cs_btn cs_bg_white">Start Free
-                                Trial</a>
-                            <a href="#" aria-label="Purchase button" class="cs_btn cs_bg_accent">Purchase
-                                Now</a>
+                            <a href="#contact" aria-label="Start trial button" class="cs_btn cs_bg_white">Get Quote</a>
                         </div>
                     </div>
                     <div class="cs_cta_shape1"><img src="assets/img/Ellipse_small.svg" alt="Image"></div>
@@ -602,11 +450,12 @@
                                     </span>
                                 </h2>
                                 <div class="cs_accordian_body">
-                                    To choose the right POS system, consider your business type, size, budget, required
-                                    features,
-                                    andpotential for futuregrowth. Research various options and read reviews to make an
-                                    informed decision.
-                                    Purchases and rewarding customers with points, discounts, or special offers.
+                                    A POS system streamlines your entire sales process, improving accuracy and efficiency.
+                                    It helps you track sales, inventory, and customer data in real-time, allowing you to
+                                    make informed decisions quickly. Additionally, integrated loyalty programs and
+                                    promotions increase customer retention and boost repeat business. A robust POS reduces
+                                    human errors, accelerates transactions, and enhances overall operational control,
+                                    ultimately leading to increased revenue and profitability.
                                 </div>
                             </div>
                             <div class="cs_accordian">
@@ -617,11 +466,11 @@
                                     </span>
                                 </h2>
                                 <div class="cs_accordian_body">
-                                    To choose the right POS system, consider your business type, size, budget, required
-                                    features,
-                                    andpotential for futuregrowth. Research various options and read reviews to make an
-                                    informed decision.
-                                    Purchases and rewarding customers with points, discounts, or special offers.
+                                    Yes, many modern POS systems, including STOXPOS, support seamless integration with
+                                    popular e-commerce platforms. This enables centralized inventory management,
+                                    synchronized sales data, and unified customer profiles across both online and offline
+                                    channels. Integration reduces manual data entry, prevents stock discrepancies, and
+                                    provides a comprehensive view of your business performance.
                                 </div>
                             </div>
                             <div class="cs_accordian">
@@ -632,11 +481,11 @@
                                     </span>
                                 </h2>
                                 <div class="cs_accordian_body">
-                                    To choose the right POS system, consider your business type, size, budget, required
-                                    features,
-                                    andpotential for futuregrowth. Research various options and read reviews to make an
-                                    informed decision.
-                                    Purchases and rewarding customers with points, discounts, or special offers.
+                                    STOXPOS is designed for ease of use, with an intuitive interface that minimizes the
+                                    learning curve. Basic training sessions and user guides are provided to help your staff
+                                    quickly become proficient. For more complex features or enterprise-level setups,
+                                    customized training and ongoing support are available to ensure smooth operations and
+                                    maximize the system’s benefits.
                                 </div>
                             </div>
                             <div class="cs_accordian">
@@ -645,11 +494,11 @@
                                     <span class="cs_accordian_toggle"><span></span></span>
                                 </h2>
                                 <div class="cs_accordian_body">
-                                    To choose the right POS system, consider your business type, size, budget, required
-                                    features,
-                                    andpotential for futuregrowth. Research various options and read reviews to make an
-                                    informed decision.
-                                    Purchases and rewarding customers with points, discounts, or special offers.
+                                    Our POS system offers detailed sales analytics, including daily, weekly, and monthly
+                                    sales reports, best-selling products, peak sales hours, and customer purchasing
+                                    patterns. You can monitor inventory turnover rates, track employee performance, and
+                                    analyze promotional effectiveness. These insights help you optimize inventory, staff
+                                    scheduling, and marketing strategies, driving smarter business growth.
                                 </div>
                             </div>
                             <div class="cs_accordian">
@@ -660,11 +509,12 @@
                                     </span>
                                 </h2>
                                 <div class="cs_accordian_body">
-                                    To choose the right POS system, consider your business type, size, budget, required
-                                    features,
-                                    andpotential for futuregrowth. Research various options and read reviews to make an
-                                    informed decision.
-                                    Purchases and rewarding customers with points, discounts, or special offers.
+                                    Selecting the right POS system depends on your business size, industry, budget, and
+                                    specific needs. Evaluate the features critical to your operations, such as inventory
+                                    management, customer loyalty programs, reporting capabilities, and ease of use. Consider
+                                    scalability for future growth and integration options with other software. Reading
+                                    reviews, requesting demos, and consulting with vendors like STOXPOS will help you make
+                                    an informed decision tailored to your business goals.
                                 </div>
                             </div>
                         </div>
@@ -693,10 +543,8 @@
                             <h2 class="cs_section_title mb-0">Get in Touch! Reach <br> Out to Us Today</h2>
                         </div>
                         <div class="cs_height_50 cs_height_lg_40"></div>
-                        <form action="https://api.web3forms.com/submit" method="POST" id="cs_form"
-                            class="row">
-                            <input type="hidden" name="access_key"
-                                value="cd98b256-0db3-478c-ab2asd8-1ec94f8aqwsq0447c">
+                        <form action="https://api.web3forms.com/submit" method="POST" id="cs_form" class="row">
+                            <input type="hidden" name="access_key" value="cd98b256-0db3-478c-ab2asd8-1ec94f8aqwsq0447c">
                             <div class="col-sm-6">
                                 <input type="text" name="name" class="cs_form_field" placeholder="Full Name*"
                                     required>
@@ -1072,5 +920,4 @@
             </div>
         </div>
     </div>
-
 @endsection

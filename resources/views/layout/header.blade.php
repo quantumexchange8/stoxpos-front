@@ -18,7 +18,6 @@
                             </li>
                             <li><a href="#features" aria-label="Menu link">Features</a></li>
                             <li><a href="#pricing" aria-label="Menu link">Pricing</a></li>
-                            <li><a href="#testimonial" aria-label="Menu link">Testimonial</a></li>
                             <li><a href="#faq" aria-label="Menu link">Faq</a>
                             <li><a href="#contact" aria-label="Menu link">Contact</a></li>
                             <li class="d-xl-none justify-content-center"
